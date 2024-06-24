@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUi3_MediaCapture_MediaPlayer_Bug (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUi3_MediaCapture_MediaPlayer_Bug (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
